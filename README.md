@@ -3,7 +3,7 @@
 Bu proje, şirketlerin personel, müşteri, stok ve finans yönetimini kolaylaştırmak için geliştirilmiş kapsamlı bir otomasyon sistemidir.
 C# (Windows Forms) ve DevExpress kullanılarak tasarlanmış olup, kullanıcı dostu bir arayüze sahiptir.
 
-📌 Özellikler
+📌 Özellikler                                                                                                                                                                                                      
 ✅ Personel Yönetimi → Çalışan bilgileri, maaşlar, departmanlar.
 
 ✅ Müşteri Takibi → Müşteri bilgileri, sipariş geçmişi, iletişim detayları.
